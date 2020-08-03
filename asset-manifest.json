@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Umbrella/static/css/main.b15af271.chunk.css",
+    "main.js": "/Umbrella/static/js/main.cb52f8b5.chunk.js",
+    "main.js.map": "/Umbrella/static/js/main.cb52f8b5.chunk.js.map",
+    "runtime-main.js": "/Umbrella/static/js/runtime-main.1c9af9f6.js",
+    "runtime-main.js.map": "/Umbrella/static/js/runtime-main.1c9af9f6.js.map",
+    "static/js/2.6cf68b90.chunk.js": "/Umbrella/static/js/2.6cf68b90.chunk.js",
+    "static/js/2.6cf68b90.chunk.js.map": "/Umbrella/static/js/2.6cf68b90.chunk.js.map",
+    "index.html": "/Umbrella/index.html",
+    "precache-manifest.56064fe1d41ef4d3f9eee7ca97485ba6.js": "/Umbrella/precache-manifest.56064fe1d41ef4d3f9eee7ca97485ba6.js",
+    "service-worker.js": "/Umbrella/service-worker.js",
+    "static/css/main.b15af271.chunk.css.map": "/Umbrella/static/css/main.b15af271.chunk.css.map",
+    "static/js/2.6cf68b90.chunk.js.LICENSE.txt": "/Umbrella/static/js/2.6cf68b90.chunk.js.LICENSE.txt",
+    "static/media/xo.css": "/Umbrella/static/media/wallpaperflare.com_wallpaper.19544b29.jpg",
+    "static/media/calculator.jpg": "/Umbrella/static/media/calculator.ab8ef3d4.jpg",
+    "static/media/cardImage1.png": "/Umbrella/static/media/cardImage1.42e6efaa.png",
+    "static/media/cardImage2.jpg": "/Umbrella/static/media/cardImage2.d57dac35.jpg",
+    "static/media/cardImage3.jpg": "/Umbrella/static/media/cardImage3.175f9c86.jpg",
+    "static/media/cardImage4.jpg": "/Umbrella/static/media/cardImage4.749c84ed.jpg",
+    "static/media/hangGame.png": "/Umbrella/static/media/hangGame.bc3f1710.png",
+    "static/media/project1Image.jpg": "/Umbrella/static/media/project1Image.025eb2e7.jpg",
+    "static/media/toDoList.css": "/Umbrella/static/media/seamless-pattern-colored-pencils-vector-876060.80eb6974.jpg",
+    "static/media/toDoListImage.jpg": "/Umbrella/static/media/toDoListImage.05a173a8.jpg",
+    "static/media/umbrellaHeaderBottomLogo.png": "/Umbrella/static/media/umbrellaHeaderBottomLogo.4d977a07.png",
+    "static/media/wlcomePage.css": "/Umbrella/static/media/welcomePageImage.8109e87a.jpg",
+    "static/media/white.ico": "/Umbrella/static/media/white.43597604.ico",
+    "static/media/xoGame.jpg": "/Umbrella/static/media/xoGame.fa1e6051.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c9af9f6.js",
+    "static/js/2.6cf68b90.chunk.js",
+    "static/css/main.b15af271.chunk.css",
+    "static/js/main.cb52f8b5.chunk.js"
+  ]
+}
