@@ -1,0 +1,24 @@
+.rightField {
+  width: 200px;
+}
+.rightField > div > img {
+  width: 100px;
+  height: 100px;
+  opacity: 0.6;
+}
+
+.rightField > div {
+  position: relative;
+}
+.rightField > div > span {
+  color: white;
+  font-size: 50px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 5%;
+}
+.startNewGame {
+  width: 200px;
+  height: 50px;
+}

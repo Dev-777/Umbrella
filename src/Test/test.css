@@ -1,0 +1,16 @@
+.test {
+  background-color: darkgray;
+  height: 600px;
+  padding: 250px;
+}
+
+.test > div {
+  width: 120px;
+  height: 120px;
+  background-color: red;
+  margin-left: 50px;
+}
+
+#one:hover ~ #two {
+  background-color: yellow;
+}

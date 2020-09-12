@@ -1,0 +1,20 @@
+.carousel {
+    margin  : 0;
+    padding : 0;
+    border  : 1px solid;
+    height  : 600px;
+}
+
+
+#imgContainer > div {
+    height : 600px;
+}
+
+#carousel-div li {
+    width            : 30px;
+    height           : 5px;
+    background-color : black;
+    border           : none;
+    border-radius    : 0px;
+}
+

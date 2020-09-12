@@ -1,0 +1,35 @@
+.xo-container-parent {
+  background-image: url("../images/wallpaperflare.com_wallpaper.jpg");
+  height: 500px;
+}
+.xo-container {
+  width: 500px;
+  height: 300px;
+}
+.xo-container div {
+  box-sizing: border-box;
+  display: inline-block;
+}
+.xo {
+  width: 250px;
+  height: 250px;
+  padding: 10px;
+}
+.xo > button {
+  width: 74px;
+  height: 74px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #282828;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.xo-container button:focus {
+  outline: none;
+}
+
+.a {
+  background: url("../images/black.png");
+}

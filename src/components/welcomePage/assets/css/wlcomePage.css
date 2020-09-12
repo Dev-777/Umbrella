@@ -1,0 +1,52 @@
+.welcomePage {
+  background-image: url("../images/welcomePageImage.jpg");
+  color: white;
+  height: 100%;
+}
+
+.cont-field {
+  padding: 75px;
+  visibility: hidden;
+  opacity: 0.3;
+}
+.cont-field-visible {
+  visibility: visible;
+  opacity: 1;
+  transitionduration: 2s;
+}
+
+.Typewriter__cursor {
+  display: none;
+}
+
+.Typewriter__wrapper {
+  font-family: Courier, monospace;
+  font-size: 35px;
+}
+
+.Typewriter {
+  height: 100px;
+}
+
+.welcomePage > div div {
+  border-radius: 17px;
+  width: 200px;
+  height: 200px;
+}
+.welcomePage > div div:hover {
+  border: 2px solid;
+}
+
+.welcomePage img {
+  width: 100%;
+  height: 100%;
+  border-radius: 17px;
+}
+
+.welcomePage h2 {
+  text-align: center;
+}
+.welcomePage a {
+  text-decoration: none;
+  color: white;
+}
